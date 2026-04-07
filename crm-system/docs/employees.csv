@@ -1,0 +1,11 @@
+id,first_name,last_name,position,salary_hour,hired,fired,phone
+1,Alex,Rodriguez,Manager,25.50,2022-01-15 08:00:00,,5559876543
+2,Maria,Gonzalez,Senior Mechanic,22.00,2022-03-20 08:00:00,,5559876544
+3,John,Smith,Mechanic,18.50,2022-06-10 08:00:00,,5559876545
+4,Emily,Chen,Detailing Specialist,16.75,2022-08-05 08:00:00,,5559876546
+5,Carlos,Martinez,Mechanic,19.25,2023-01-12 08:00:00,,5559876547
+6,Katie,Thompson,Parts Coordinator,17.00,2023-04-18 08:00:00,,5559876548
+7,Derek,Williams,Apprentice Mechanic,14.50,2023-09-01 08:00:00,,5559876549
+8,Lisa,Park,Quality Inspector,20.75,2024-02-14 08:00:00,,5559876550
+9,Tommy,Baker,Detailing Assistant,15.25,2024-05-20 08:00:00,,5559876551
+10,Rachel,Foster,Administrative Assistant,16.00,2024-07-08 08:00:00,,5559876552

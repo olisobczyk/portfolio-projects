@@ -1,0 +1,51 @@
+id,name,car_id,estimated_cost,started,status,end_date
+1,Wrangler Lift Kit Install,1,2500.00,2023-03-16 09:00:00,finished,2023-03-20 17:00:00
+2,Pathfinder Bumper Upgrade,2,1800.00,2023-04-23 10:00:00,finished,2023-04-25 16:00:00
+3,Grand Cherokee Tune-Up,3,3200.00,2023-05-11 08:30:00,finished,2023-05-18 15:30:00
+4,Frontier Winch Installation,4,1500.00,2023-06-09 11:00:00,finished,2023-06-12 14:00:00
+5,Cherokee Light Bar Setup,5,900.00,2023-07-04 09:15:00,finished,2023-07-06 12:15:00
+6,Titan Exhaust System,6,2200.00,2023-08-15 10:30:00,finished,2023-08-19 16:30:00
+7,Compass Interior Detail,7,600.00,2023-09-02 13:00:00,finished,2023-09-03 17:00:00
+8,Armada Suspension Lift,8,3500.00,2023-10-13 08:00:00,finished,2023-10-20 18:00:00
+9,Renegade Roof Rack Install,9,750.00,2023-11-26 14:30:00,finished,2023-11-28 11:30:00
+10,Xterra Engine Rebuild,10,4200.00,2024-01-09 07:00:00,finished,2024-01-25 19:00:00
+11,Gladiator Roll Cage,11,2800.00,2024-02-15 09:45:00,finished,2024-02-22 16:45:00
+12,Murano Paint Protection,12,1100.00,2024-03-21 12:00:00,finished,2024-03-23 14:00:00
+13,Wrangler Wheel Upgrade,13,1600.00,2024-04-19 10:15:00,finished,2024-04-22 15:15:00
+14,Sentra Performance Tune,14,850.00,2024-05-23 11:30:00,finished,2024-05-24 13:30:00
+15,Grand Cherokee Detail,15,500.00,2024-07-01 14:00:00,finished,2024-07-02 16:00:00
+16,Altima Cold Air Intake,16,650.00,2024-07-16 09:30:00,finished,2024-07-17 12:30:00
+17,Cherokee Skid Plates,17,1200.00,2024-08-06 08:15:00,finished,2024-08-08 17:15:00
+18,Maxima Lowering Kit,18,1400.00,2024-09-13 13:45:00,finished,2024-09-16 11:45:00
+19,Compass Bumper Replace,19,2100.00,2024-10-02 10:00:00,finished,2024-10-06 15:00:00
+20,Rogue Brake Upgrade,20,1300.00,2024-11-19 11:15:00,finished,2024-11-22 14:15:00
+21,Wrangler Snorkel Install,21,1900.00,2024-12-04 08:30:00,finished,2024-12-07 16:30:00
+22,Pathfinder Hitch Install,22,800.00,2025-01-13 12:45:00,finished,2025-01-15 10:45:00
+23,Grand Cherokee Tune,23,2700.00,2025-02-06 09:00:00,finished,2025-02-12 18:00:00
+24,Frontier Bed Liner,24,950.00,2025-03-19 14:30:00,finished,2025-03-21 11:30:00
+25,Cherokee Differential,25,3100.00,2025-04-09 07:45:00,finished,2025-04-16 19:45:00
+26,Titan Turbo Install,26,4500.00,2025-05-15 08:00:00,finished,2025-05-28 17:00:00
+27,Gladiator Paint Job,27,3800.00,2025-06-23 10:30:00,finished,2025-07-05 16:30:00
+28,Armada Audio System,28,2200.00,2025-07-11 13:15:00,finished,2025-07-16 15:15:00
+29,Renegade Tire Upgrade,29,1100.00,2025-07-26 11:00:00,finished,2025-07-28 14:00:00
+30,Murano Window Tint,30,450.00,2025-07-29 09:30:00,finished,2025-07-30 12:30:00
+31,Wrangler Custom Build,1,5200.00,2024-05-01 08:00:00,finished,2024-05-20 18:00:00
+32,Pathfinder Electronics,2,1650.00,2024-06-15 10:30:00,finished,2024-06-18 16:30:00
+33,Grand Cherokee Restore,3,6800.00,2024-07-20 07:00:00,finished,2024-08-15 19:00:00
+34,Frontier Lift Install,4,2900.00,2024-08-25 09:15:00,finished,2024-08-30 17:15:00
+35,Cherokee Rock Sliders,5,1450.00,2024-09-10 11:45:00,finished,2024-09-13 14:45:00
+36,Titan Custom Exhaust,6,2650.00,2024-10-05 08:30:00,finished,2024-10-10 16:30:00
+37,Compass Light Upgrade,7,750.00,2024-11-12 13:00:00,finished,2024-11-14 15:00:00
+38,Armada Interior Mod,8,3200.00,2024-12-18 09:45:00,finished,2024-12-28 18:45:00
+39,Renegade Roof Tent,9,1850.00,2025-01-22 12:15:00,finished,2025-01-26 14:15:00
+40,Xterra Transmission,10,3700.00,2025-02-28 07:30:00,finished,2025-03-15 19:30:00
+41,Gladiator Fender Flare,11,1320.00,2025-04-02 10:00:00,finished,2025-04-05 13:00:00
+42,Murano Ceramic Coat,12,980.00,2025-05-08 14:45:00,finished,2025-05-10 12:45:00
+43,Wrangler Gear Install,13,2150.00,2025-06-12 08:15:00,finished,2025-06-17 17:15:00
+44,Sentra ECU Flash,14,750.00,2025-07-18 11:30:00,finished,2025-07-19 13:30:00
+45,Grand Cherokee Service,15,650.00,2025-07-22 09:00:00,finished,2025-07-23 11:00:00
+46,Altima Suspension Work,16,2400.00,2025-07-29 10:00:00,in_progress,
+47,Cherokee Engine Swap,17,5500.00,2025-07-30 08:00:00,in_progress,
+48,Maxima Turbo Kit,18,3900.00,2025-07-31 09:30:00,in_progress,
+49,Compass Full Detail,19,1200.00,2025-08-01 11:00:00,tested,
+50,Rogue Performance Pkg,20,2800.00,2025-08-01 13:15:00,in_progress,

@@ -1,0 +1,46 @@
+id,name,supplier_id,cost_for_client,stock
+1,Lift Kit 4 inch,1,850.00,in
+2,LED Light Bar 50 inch,2,320.00,in
+3,Winch 9500 lbs,3,450.00,ordered
+4,Bumper Guard Front,1,280.00,in
+5,Skid Plate Set,4,195.00,out
+6,Differential Cover,5,125.00,in
+7,Rock Sliders,3,380.00,in
+8,Exhaust System,7,520.00,in
+9,Cold Air Intake,4,165.00,ordered
+10,Brake Pads Performance,8,95.00,in
+11,Shock Absorbers,1,240.00,in
+12,Tire 35x12.50,9,280.00,out
+13,Wheel 17x9,2,220.00,in
+14,Roof Rack System,11,340.00,in
+15,Snorkel Kit,5,295.00,in
+16,Turbo Kit,7,1850.00,ordered
+17,ECU Tuning Module,4,425.00,in
+18,Roll Cage Kit,3,680.00,in
+19,Seat Covers Neoprene,12,140.00,in
+20,Floor Mats All Weather,9,85.00,in
+21,Window Tint Film,8,65.00,in
+22,Paint Protection Film,11,180.00,out
+23,Ceramic Coating Kit,2,120.00,in
+24,Transmission Cooler,7,215.00,in
+25,Oil Filter Performance,1,25.00,in
+26,Air Filter High Flow,4,45.00,in
+27,Fuel Injectors,5,320.00,ordered
+28,Spark Plugs Iridium,8,55.00,in
+29,Radiator Heavy Duty,9,385.00,in
+30,Alternator High Output,3,275.00,in
+31,Battery Deep Cycle,11,195.00,in
+32,Starter Motor HD,12,165.00,out
+33,Clutch Kit Racing,7,485.00,in
+34,Flywheel Lightweight,1,290.00,in
+35,Suspension Arms,2,340.00,in
+36,Sway Bar Links,4,75.00,in
+37,Ball Joints Heavy Duty,5,110.00,in
+38,Tie Rod Ends,8,65.00,in
+39,Steering Stabilizer,3,125.00,in
+40,Drive Shaft,9,420.00,ordered
+41,CV Joints,11,145.00,in
+42,Hub Assemblies,12,185.00,in
+43,Brake Rotors Slotted,7,155.00,in
+44,Caliper Rebuild Kit,1,85.00,in
+45,Brake Lines Stainless,2,95.00,in

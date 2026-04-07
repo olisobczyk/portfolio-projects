@@ -1,0 +1,31 @@
+id,client_id,brand,model,engine,production_date,status
+1,1,Jeep,Wrangler,3.6,2020-01-01,not_available
+2,2,Nissan,Pathfinder,3.5,2019-01-01,available
+3,3,Jeep,Grand Cherokee,5.7,2021-01-01,not_available
+4,4,Nissan,Frontier,2.5,2018-01-01,available
+5,5,Jeep,Cherokee,2.4,2022-01-01,not_available
+6,6,Nissan,Titan,5.6,2020-01-01,available
+7,7,Jeep,Compass,2.4,2021-01-01,available
+8,8,Nissan,Armada,5.6,2019-01-01,not_available
+9,9,Jeep,Renegade,1.4,2023-01-01,available
+10,10,Nissan,Xterra,4.0,2015-01-01,not_available
+11,11,Jeep,Gladiator,3.6,2022-01-01,available
+12,12,Nissan,Murano,3.5,2021-01-01,available
+13,13,Jeep,Wrangler,2.0,2024-01-01,not_available
+14,14,Nissan,Sentra,1.6,2020-01-01,available
+15,15,Jeep,Grand Cherokee,3.0,2023-01-01,available
+16,16,Nissan,Altima,2.5,2022-01-01,available
+17,17,Jeep,Cherokee,3.2,2020-01-01,not_available
+18,18,Nissan,Maxima,3.5,2021-01-01,available
+19,19,Jeep,Compass,2.0,2022-01-01,not_available
+20,20,Nissan,Rogue,2.5,2023-01-01,available
+21,21,Jeep,Wrangler,3.6,2021-01-01,available
+22,22,Nissan,Pathfinder,3.0,2024-01-01,not_available
+23,23,Jeep,Grand Cherokee,6.4,2020-01-01,available
+24,24,Nissan,Frontier,3.8,2022-01-01,available
+25,25,Jeep,Cherokee,2.0,2023-01-01,not_available
+26,26,Nissan,Titan,5.0,2021-01-01,available
+27,27,Jeep,Gladiator,3.0,2024-01-01,available
+28,28,Nissan,Armada,5.6,2022-01-01,not_available
+29,29,Jeep,Renegade,2.4,2021-01-01,available
+30,30,Nissan,Murano,3.5,2023-01-01,not_available

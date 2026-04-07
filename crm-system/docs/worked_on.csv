@@ -1,0 +1,111 @@
+employee_id,project_id,date,comment,hours,minutes
+2,1,2023-03-16 09:00:00,Started lift kit installation preparation,3,30
+3,1,2023-03-16 13:00:00,Assisted with suspension components removal,4,0
+2,1,2023-03-17 08:30:00,Installed new lift kit components,6,45
+3,1,2023-03-17 15:30:00,Final adjustments and alignment,2,15
+2,1,2023-03-18 10:00:00,Quality check and road test,1,30
+4,2,2023-04-23 10:00:00,Removed old bumper and prepped for new installation,2,45
+2,2,2023-04-24 08:30:00,Installed new bumper guard system,4,30
+4,2,2023-04-24 13:15:00,Paint touch-up and final detailing,3,15
+8,2,2023-04-25 09:00:00,Quality inspection and testing,1,0
+2,3,2023-05-11 08:30:00,Initial engine diagnostics and assessment,2,0
+3,3,2023-05-12 10:00:00,ECU tuning and performance optimization,5,30
+2,3,2023-05-13 09:15:00,Air intake system installation,3,45
+3,3,2023-05-14 11:30:00,Final tuning adjustments,4,0
+8,3,2023-05-15 14:00:00,Road test and performance validation,2,30
+5,4,2023-06-09 11:00:00,Winch mounting bracket installation,3,0
+2,4,2023-06-10 08:00:00,Winch motor and cable installation,4,15
+5,4,2023-06-10 13:30:00,Electrical wiring and testing,2,45
+8,4,2023-06-11 10:00:00,Load testing and safety check,1,30
+4,5,2023-07-04 09:15:00,LED light bar mounting and wiring,5,0
+7,5,2023-07-05 14:30:00,Interior switch installation,1,45
+4,5,2023-07-06 08:00:00,Final testing and adjustment,2,30
+2,6,2023-08-15 10:30:00,Exhaust system removal and installation,6,0
+3,6,2023-08-16 09:00:00,Performance tuning for new exhaust,3,30
+2,6,2023-08-17 11:15:00,Sound level testing and adjustments,2,15
+4,7,2023-09-02 13:00:00,Interior cleaning and preparation,4,0
+9,7,2023-09-03 08:30:00,Leather conditioning and protection,3,30
+4,7,2023-09-03 13:00:00,Final detailing and quality check,1,30
+2,8,2023-10-13 08:00:00,Suspension system disassembly,4,45
+3,8,2023-10-14 09:30:00,New suspension components installation,6,30
+5,8,2023-10-15 10:15:00,Shock absorber calibration,3,15
+2,8,2023-10-16 12:00:00,Alignment and road testing,4,0
+8,8,2023-10-17 14:30:00,Final inspection and safety check,2,0
+4,9,2023-11-26 14:30:00,Roof rack system mounting preparation,2,30
+7,9,2023-11-27 08:00:00,Installation of mounting hardware,3,15
+4,9,2023-11-27 12:45:00,Load testing and adjustment,1,45
+2,10,2024-01-09 07:00:00,Engine disassembly and assessment,8,0
+3,10,2024-01-10 08:30:00,Internal engine component rebuild,7,30
+2,10,2024-01-15 09:00:00,Engine reassembly and installation,6,45
+3,10,2024-01-18 10:15:00,Initial startup and break-in procedure,4,15
+8,10,2024-01-20 11:30:00,Performance testing and final tuning,3,0
+2,11,2024-02-15 09:45:00,Roll cage design and measurement,3,15
+5,11,2024-02-16 08:00:00,Welding and fabrication work,6,30
+2,11,2024-02-18 10:30:00,Installation and mounting,5,0
+8,11,2024-02-20 13:45:00,Safety inspection and testing,2,15
+4,12,2024-03-21 12:00:00,Paint protection film application,4,30
+9,12,2024-03-22 08:30:00,Surface preparation and cleaning,2,45
+4,12,2024-03-22 14:15:00,Final inspection and quality check,1,15
+2,13,2024-04-19 10:15:00,Wheel and tire removal,1,30
+3,13,2024-04-20 09:00:00,New wheel installation and balancing,3,45
+2,13,2024-04-20 14:30:00,Alignment and road test,2,15
+2,14,2024-05-23 11:30:00,ECU performance tune and optimization,3,0
+8,14,2024-05-24 08:15:00,Dyno testing and validation,2,30
+4,15,2024-07-01 14:00:00,Complete exterior and interior detailing,6,0
+9,15,2024-07-02 08:30:00,Final polish and protection application,2,30
+2,16,2024-07-16 09:30:00,Cold air intake system installation,2,45
+3,16,2024-07-16 13:15:00,Performance tuning and testing,1,45
+2,17,2024-08-06 08:15:00,Skid plate fabrication and fitting,4,30
+5,17,2024-08-07 10:45:00,Installation and mounting hardware,3,15
+8,17,2024-08-08 14:00:00,Ground clearance testing,1,30
+3,18,2024-09-13 13:45:00,Suspension lowering kit installation,5,0
+2,18,2024-09-14 09:30:00,Alignment and handling adjustment,3,30
+8,18,2024-09-15 12:15:00,Road test and performance validation,2,15
+2,19,2024-10-02 10:00:00,Bumper replacement and fitting,4,15
+4,19,2024-10-03 08:45:00,Paint matching and finishing,3,45
+9,19,2024-10-04 13:30:00,Final detailing and inspection,2,0
+2,20,2024-11-19 11:15:00,Brake system upgrade installation,4,30
+3,20,2024-11-20 09:00:00,Brake bleeding and testing,2,15
+8,20,2024-11-21 10:45:00,Performance and safety validation,1,45
+2,21,2024-12-04 08:30:00,Snorkel system installation,5,15
+3,21,2024-12-05 10:15:00,Air intake routing and sealing,3,30
+8,21,2024-12-06 14:00:00,Water crossing capability test,2,0
+5,22,2025-01-13 12:45:00,Trailer hitch installation,2,30
+2,22,2025-01-14 09:30:00,Electrical wiring for hitch,1,45
+8,22,2025-01-15 08:15:00,Towing capacity testing,1,15
+2,23,2025-02-06 09:00:00,Engine performance diagnostics,3,30
+3,23,2025-02-08 10:45:00,Advanced ECU tuning,4,15
+2,23,2025-02-10 13:15:00,Dyno testing and optimization,3,0
+8,23,2025-02-12 11:30:00,Final performance validation,2,30
+4,24,2025-03-19 14:30:00,Bed liner preparation and application,4,0
+9,24,2025-03-20 08:00:00,Surface texturing and finishing,3,15
+4,24,2025-03-21 10:15:00,Quality inspection and touch-up,1,45
+2,25,2025-04-09 07:45:00,Differential disassembly,4,30
+3,25,2025-04-12 09:30:00,Gear ratio upgrade installation,6,0
+2,25,2025-04-14 11:15:00,Reassembly and fluid change,3,45
+8,25,2025-04-16 13:30:00,Performance testing and validation,2,15
+2,26,2025-05-15 08:00:00,Turbo system installation preparation,5,30
+3,26,2025-05-20 10:15:00,Turbocharger and piping installation,7,15
+2,26,2025-05-22 09:45:00,Engine management tuning,4,30
+8,26,2025-05-25 12:00:00,Boost pressure testing,3,0
+4,27,2025-06-23 10:30:00,Paint preparation and masking,6,0
+9,27,2025-06-28 08:15:00,Base coat application,4,30
+4,27,2025-06-30 10:45:00,Color coat and clear coat,5,15
+9,27,2025-07-02 09:30:00,Polishing and final finishing,3,45
+2,28,2025-07-11 13:15:00,Audio system component installation,4,15
+7,28,2025-07-13 10:00:00,Speaker and amplifier wiring,3,30
+2,28,2025-07-15 12:45:00,System tuning and testing,2,15
+3,29,2025-07-26 11:00:00,Tire installation and balancing,2,30
+2,29,2025-07-27 09:15:00,Alignment and pressure adjustment,1,45
+4,30,2025-07-29 09:30:00,Window tint film application,3,0
+9,30,2025-07-30 08:15:00,Final inspection and cleanup,1,30
+2,46,2025-07-29 10:00:00,Suspension system diagnosis,2,30
+3,46,2025-07-30 08:45:00,Component replacement started,4,15
+2,47,2025-07-30 08:00:00,Engine removal and preparation,6,0
+3,47,2025-07-31 09:30:00,New engine installation begun,5,30
+2,48,2025-07-31 09:30:00,Turbo kit fitting and preparation,4,45
+3,48,2025-08-01 10:15:00,Installation of turbo components,3,30
+4,49,2025-08-01 11:00:00,Complete detail service,4,0
+9,49,2025-08-02 08:30:00,Final polish and protection,2,30
+2,50,2025-08-01 13:15:00,Performance package installation,3,45
+3,50,2025-08-02 09:00:00,Engine tuning and optimization,2,15

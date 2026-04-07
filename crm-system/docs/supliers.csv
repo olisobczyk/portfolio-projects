@@ -1,0 +1,13 @@
+id,name,email,phone,active,discount
+1,4WD Performance Parts,sales@4wdperformance.com,555-4WD-PART,yes,15.0
+2,Offroad Unlimited,orders@offroadunlimited.com,555-OFF-ROAD,yes,12.5
+3,Jeep Specialists Inc,info@jeepspecialists.com,555-JEEP-PRO,yes,18.0
+4,Nissan Tuning Supply,support@nissantuning.com,555-NIS-TUNE,yes,10.0
+5,Extreme Offroad Gear,contact@extremeoffroad.com,555-EXT-GEAR,yes,20.0
+6,Auto Parts Express,service@autopartsexp.com,555-APT-EXPR,no,8.0
+7,Performance Plus,sales@performanceplus.com,555-PERF-PLU,yes,14.0
+8,Trail Ready Components,orders@trailready.com,555-TRL-RDYC,yes,16.5
+9,Universal Auto Supply,info@universalauto.com,555-UNI-AUTO,yes,11.0
+10,Custom Car Solutions,custom@carcustom.com,555-CUS-CARS,no,5.0
+11,Precision Parts Co,precision@partsco.com,555-PREC-PRT,yes,13.5
+12,Heavy Duty Offroad,heavy@dutyoffroad.com,555-HVY-DUTY,yes,19.0

@@ -1,0 +1,9 @@
+.import --csv --skip 1 clients.csv clients
+.import --csv --skip 1 cars.csv cars
+.import --csv --skip 1 projects.csv projects
+.import --csv --skip 1 supliers.csv suppliers
+.import --csv --skip 1 employees.csv employees
+.import --csv --skip 1 parts.csv parts
+.import --csv --skip 1 ordered.csv ordered
+.import --csv --skip 1 used.csv needs
+.import --csv --skip 1 worked_on.csv worked_on
