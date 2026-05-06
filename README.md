@@ -18,6 +18,11 @@ End-to-end techno-economic analysis of a 1,905 MW offshore wind facility in Gree
 **Tech Stack:** visTABLE · Operations Design · Cost Analysis  
 Conceptual factory design balancing material flows, machine utilization, and operational costs for a buggy vehicle assembly operation.
 
+### 4. [AI-Powered Python Financial Assistant](./ai-python-financial-analyst)
+**Tech Stack:** Python · NeuralIntents · pandas-datareader · mplfinance · pickle  
+**Impact:** End-to-end conversational AI assistant for real-time portfolio management and market visualisation  
+Built a CLI-based intelligent financial assistant using a custom NLP intent-classification engine. Supports live stock charting (candlestick), portfolio CRUD with persistent storage, real-time portfolio valuation via Yahoo Finance, and historical performance comparison — all driven by natural language input.
+
 ---
 
 ## About Me
