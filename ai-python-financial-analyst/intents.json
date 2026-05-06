@@ -1,0 +1,139 @@
+{
+  "intents": [
+    {
+      "tag": "greetings",
+      "patterns": [
+        "hello",
+        "hi",
+        "hey",
+        "good morning",
+        "good afternoon",
+        "good evening",
+        "what's up",
+        "howdy",
+        "sup",
+        "greetings"
+      ],
+      "responses": [
+        "Hey! How can I help you with your finances today?",
+        "Hello! Ready to manage your portfolio?",
+        "Hi there! What financial info can I get you?"
+      ]
+    },
+    {
+      "tag": "plot_chart",
+      "patterns": [
+        "plot a stock",
+        "plot a stock price",
+        "show me a stock chart",
+        "show me a candlestick chart",
+        "display a chart for a stock",
+        "I want to see a chart",
+        "show stock chart",
+        "plot chart",
+        "show me the chart",
+        "candlestick chart",
+        "stock chart",
+        "show price chart",
+        "chart a stock",
+        "visualize a stock"
+      ],
+      "responses": []
+    },
+    {
+      "tag": "add_portfolio",
+      "patterns": [
+        "add a stock to my portfolio",
+        "I want to add a stock",
+        "add stock",
+        "buy a new stock",
+        "add shares to my portfolio",
+        "I bought some shares",
+        "track a new stock",
+        "add to portfolio",
+        "add position"
+      ],
+      "responses": []
+    },
+    {
+      "tag": "remove_portfolio",
+      "patterns": [
+        "remove a stock from my portfolio",
+        "sell a stock",
+        "I want to sell shares",
+        "remove stock",
+        "sell shares",
+        "remove position",
+        "I sold some shares",
+        "take a stock out of my portfolio"
+      ],
+      "responses": []
+    },
+    {
+      "tag": "show_portfolio",
+      "patterns": [
+        "show my portfolio",
+        "what stocks do I own",
+        "show my stocks",
+        "display my portfolio",
+        "what is in my portfolio",
+        "list my portfolio",
+        "what do I own",
+        "portfolio holdings",
+        "my holdings",
+        "show holdings"
+      ],
+      "responses": []
+    },
+    {
+      "tag": "portfolio_worth",
+      "patterns": [
+        "how much is my portfolio worth",
+        "what is my portfolio value",
+        "portfolio value",
+        "total portfolio worth",
+        "how much are my stocks worth",
+        "what is the value of my portfolio",
+        "calculate my portfolio worth",
+        "portfolio net worth",
+        "portfolio total value"
+      ],
+      "responses": []
+    },
+    {
+      "tag": "portfolio_gains",
+      "patterns": [
+        "how is my portfolio performing",
+        "portfolio gains",
+        "portfolio performance",
+        "how much have I gained",
+        "what are my portfolio gains",
+        "how much profit have I made",
+        "portfolio return",
+        "show my gains",
+        "compare portfolio to past",
+        "portfolio growth"
+      ],
+      "responses": []
+    },
+    {
+      "tag": "buy",
+      "patterns": [
+        "goodbye",
+        "bye",
+        "quit",
+        "exit",
+        "see you",
+        "later",
+        "good bye",
+        "I'm done",
+        "stop"
+      ],
+      "responses": [
+        "Goodbye! Happy investing!",
+        "See you later! Take care of those stocks!",
+        "Bye! Good luck with your portfolio!"
+      ]
+    }
+  ]
+}

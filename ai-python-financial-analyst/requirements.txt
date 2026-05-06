@@ -1,0 +1,19 @@
+# Core NLP / chatbot engine
+neuralintents>=0.2.3
+
+# Financial data
+pandas-datareader>=0.10.0
+yfinance>=0.2.18          # Fallback data source when datareader's Yahoo backend breaks
+
+# Data processing
+pandas>=1.5.0
+
+# Charting
+matplotlib>=3.6.0
+mplfinance>=0.12.9b7
+
+# Standard library — no install needed, listed for documentation
+# pickle  (stdlib)
+# sys     (stdlib)
+# datetime (stdlib)
+# pathlib  (stdlib)
